@@ -1,4 +1,4 @@
-## Olá me chamo Allan Duarte, atualmente estudo e trabalho com programação e tecnologia!
+## Olá me chamo Allan Duarte, atualmente estudo e trabalho com programação!
 
 <div align="center">
   <a href="https://github.com/duarte44">
